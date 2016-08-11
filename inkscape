@@ -1,0 +1,56 @@
+== INKSCAPE ==
+
+== align object to page ==
+
+::select object::
+shift + ctrl + a - align
+relative to:  page
+center on vertical axis
+center on horizontal axis
+
+== workspace ==
+
+shift + ctrl + f - fill
+shift + ctrl + l - layers
+shift + ctrl + w - swatches
+shift + ctrl + a - align
+object > rows and columns
+
+== hotkeys ==
+
+s - select
+n - node
+w - tweak
+z - zoom
+r - rectangle
+x - 3D
+e - elipse
+* - star
+i - spiral
+p - pencil
+b - bezier curve
+c - calligraphy
+t - text
+a - spray
+b - big eraser
+u - paint tool
+g - gradient
+d - eye dropper
+o - diagram connector
+
+ctrl + a - select all
+ctrl + z - undo
+ctrl + shift + z - redo
++ - zoom in
+- - zoom out
+# - grid
+drag from ruler - guide
+ctrl + g - group
+ctrl + u - ungroup
+ctrl + drag - increment
+shift + drag - draw from center
+ctrl + click - change color
+shift + click perspective - depth
+ctrl + alt + drag - perfect circle
+s + <> - scale
+s + [] - rotate
